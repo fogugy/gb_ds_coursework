@@ -1,4 +1,7 @@
-# gb_ds_coursework
-geekbrains data science coursework 1
+### Курсовая GeekBrains #1
 
-подготовка данных - data_preparation.ipynb
+data_preparation.ipynb:
+Очистка данных
+
+ml.ipynb:
+Добавление признаков, обучение, тест
